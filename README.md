@@ -11,7 +11,7 @@
 -----
 
 ```js
-I am a Full Stack Developer who expert in PHP and Node.JS. 
+I am a Software Engineer who expert in PHP and Node.JS. 
 Having 5+ years of experience in developing web application 
 such as ERP, POS, Ecommerce, Reservation, Accounting, 
 Job Searching Platform, Payment Platform and etc. 
