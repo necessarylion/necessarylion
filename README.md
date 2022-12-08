@@ -12,4 +12,4 @@ I am a Full Stack Developer who expert in PHP and Node.JS. Having 5+ years of ex
 
 ### My Stacks
 
-[![My Stacks](https://skillicons.dev/icons?i=php,nodejs,ts,js,react,vue,flutter,dart,mysql,postgres,redis,workers,tailwind,git,figma,nuxtjs,cloudflare,docker,mongodb,aws)](https://zinkyawkyaw.dev)
+[![My Stacks](https://skillicons.dev/icons?i=php,nodejs,ts,js,react,vue,flutter,dart,mysql,postgres,redis,workers,tailwind,git,figma,nuxtjs,cloudflare,docker,mongodb,aws)]
