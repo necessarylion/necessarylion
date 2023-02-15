@@ -1,15 +1,6 @@
-```js
-    _   ___         _      
-   / | / (_)___    (_)___ _
-  /  |/ / / __ \  / / __ `/
- / /|  / / / / / / / /_/ / 
-/_/ |_/_/_/ /_/_/ /\__,_/  
-             /___/         
-```
------
 
 ```js
-I am a Ninja 🥷 who expert in PHP and Node.JS. 
+I am AJ 🥷 who expert in PHP and Node.JS. 
 Having 5+ years of experience in developing web application 
 such as ERP, POS, Ecommerce, Reservation, Accounting, 
 Job Searching Platform, Payment Platform and etc. 
