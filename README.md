@@ -1,7 +1,7 @@
 
-```js
-I am AJ 🥷 who expert in PHP and Node.JS. 
-Having 5+ years of experience in developing web application 
+```
+I am a Software Engineer who expert in PHP, Node.JS, Golang and Dart. 
+Having 5+ years of experience in developing web/mobile application 
 such as ERP, POS, Ecommerce, Reservation, Accounting, 
 Job Searching Platform, Payment Platform and etc. 
 Currently based in Thailand, Bangkok city.
@@ -16,7 +16,7 @@ Currently based in Thailand, Bangkok city.
 <details>
   <summary><h3>My Experiences</h3></summary>
   
-  #### Software Engineer @ `OPN`
+  #### Software Engineer @ `OPN Payments`
   ```js
   Manage/develop plugins and sdk for Opn Payments gateway 
   such as (wordpress, magento, shopify, php-sdk, node-sdk. etc...)
