@@ -7,12 +7,6 @@ Job Searching Platform, Payment Platform and etc.
 Currently based in Thailand, Bangkok city.
 ```
 
-<details>
-  <summary>- My Stacks</summary>
-  - ABCD
-  - EFG
-<details>
-
 ### My Stacks
 -----
 
