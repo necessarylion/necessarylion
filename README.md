@@ -1,1 +1,1 @@
-![My Stacks](https://skillicons.dev/icons?i=php,nodejs,ts,react,vue,flutter,dart,aws,go)
+![My Stacks](https://skillicons.dev/icons?i=php,nodejs,dart,go,ts,react,vue,flutter)
