@@ -1,1 +1,1 @@
-![My Stacks](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,react,vue,flutter,dart,mysql,postgres,redis,workers,tailwind,git,figma,nuxtjs,cloudflare,docker,mongodb,aws)
+![My Stacks](https://skillicons.dev/icons?i=php,nodejs,ts,react,vue,flutter,dart,aws,go)
