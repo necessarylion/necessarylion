@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Zin Kyaw Kyaw
+N;CHARSET=UTF-8:Kyaw;Zin Kyaw;;Mr.;
+NICKNAME;CHARSET=UTF-8:AJ
+GENDER:M
+BDAY:19941122
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:aj.zinkyaw@gmail.com
+TEL;TYPE=HOME,VOICE:+66620350322
+TEL;TYPE=WORK,VOICE:+959780398840
+TITLE;CHARSET=UTF-8:Software Engineer
+ORG;CHARSET=UTF-8:South East Asia Development Corp. Ltd
+URL;type=WORK;CHARSET=UTF-8:https://sead.biz/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/aj-zinkyawkyaw/
+X-SOCIALPROFILE;TYPE=Github:https://github.com/necessarylion
+REV:2024-05-22T04:43:16.832Z
+END:VCARD
