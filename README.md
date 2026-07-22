@@ -35,6 +35,7 @@ I work end-to-end — from **Flutter** apps and **TypeScript** backends to **Rus
 
 | Project | What it is |
 | --- | --- |
+| 🦀 [pdf-inspect](https://github.com/necessarylion/pdf-inspect) | Fast Rust CLI to inspect PDF metadata, fonts & PDF/X-4 print compliance |
 | 🌍 [country-list-with-dial-code-and-flag](https://github.com/necessarylion/country-list-with-dial-code-and-flag) | Country flags with dial codes |
 | 💳 [flutter-credit-card-form](https://github.com/necessarylion/flutter-credit-card-form) | Polished credit/debit card form for Flutter |
 | ☁️ [flydrive-azure-driver](https://github.com/necessarylion/flydrive-azure-driver) | Azure Blob Storage driver for Flydrive |
