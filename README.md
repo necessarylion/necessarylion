@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm AJ 👋
+<img src="assets/banner.webp" alt="AJ — Full-stack Engineer" width="100%" />
 
-**Full-stack engineer** building across web, mobile, and systems.
+<br /><br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aj--zinkyaw.web.app-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://aj-zinkyaw.web.app)
 [![Email](https://img.shields.io/badge/Email-aj.zinkyaw@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aj.zinkyaw@gmail.com)
