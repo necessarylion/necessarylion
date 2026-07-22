@@ -39,11 +39,3 @@ I work end-to-end — from **Flutter** apps and **TypeScript** backends to **Rus
 | 💳 [flutter-credit-card-form](https://github.com/necessarylion/flutter-credit-card-form) | Polished credit/debit card form for Flutter |
 | ☁️ [flydrive-azure-driver](https://github.com/necessarylion/flydrive-azure-driver) | Azure Blob Storage driver for Flydrive |
 | ⚡ [bun-starter-kit](https://github.com/necessarylion/bun-starter-kit) | Hono + Lucid ORM + Vine + auto DI starter kit |
-
----
-
-<div align="center">
-
-![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=necessarylion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
