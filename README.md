@@ -26,13 +26,3 @@ I work end-to-end — from **Flutter** apps and **TypeScript** backends to **Rus
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Selected work
-
-| Project | What it is |
-| --- | --- |
-| 🦀 [pdf-inspect](https://github.com/necessarylion/pdf-inspect) | Fast Rust CLI to inspect PDF metadata, fonts & PDF/X-4 print compliance |
-| 🌍 [country-list-with-dial-code-and-flag](https://github.com/necessarylion/country-list-with-dial-code-and-flag) | Country flags with dial codes |
-| 💳 [flutter-credit-card-form](https://github.com/necessarylion/flutter-credit-card-form) | Polished credit/debit card form for Flutter |
-| ☁️ [flydrive-azure-driver](https://github.com/necessarylion/flydrive-azure-driver) | Azure Blob Storage driver for Flydrive |
-| ⚡ [bun-starter-kit](https://github.com/necessarylion/bun-starter-kit) | Hono + Lucid ORM + Vine + auto DI starter kit |
