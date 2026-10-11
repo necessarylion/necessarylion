@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="assets/banner.webp" alt="AJ — Full-stack Engineer" width="100%" />
-
 <br /><br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aj--zinkyaw.web.app-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://aj-zinkyaw.web.app)
