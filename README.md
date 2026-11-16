@@ -9,14 +9,17 @@
 
 I'm AJ, a software engineer in Bangkok and the founder of [Sellrika](https://github.com/sellrika/sellrika), a point of sale and online store in one app for shops, cafés, and restaurants. I ship desktop apps, libraries, and backends — **Rust**, **TypeScript**, and **Flutter** — and I care about small tools people actually keep using.
 
+I also created [Dox](https://github.com/dartondox/dox), a web backend framework for Dart.
+
 Right now that's [sql-pro](https://github.com/necessarylion/sql-pro), a cross-platform SQL client. The library people already depend on is [country-list-with-dial-code-and-flag](https://github.com/necessarylion/country-list-with-dial-code-and-flag), about 40k npm downloads a week.
 
 ### Selected work
 
 | Project | Stars | What it is |
 | --- | --- | --- |
-| [Sellrika](https://github.com/sellrika/sellrika) | [![GitHub stars](https://img.shields.io/github/stars/sellrika/sellrika?style=social)](https://github.com/sellrika/sellrika/stargazers) | Point of sale and online store in one app, for shops, cafés, and restaurants. |
-| [sql-pro](https://github.com/necessarylion/sql-pro) | [![GitHub stars](https://img.shields.io/github/stars/necessarylion/sql-pro?style=social)](https://github.com/necessarylion/sql-pro/stargazers) | Desktop SQL client for MySQL, MariaDB, PostgreSQL, SQL Server, and SQLite. Tauri, Rust, and Vue — macOS, Windows, and Linux. |
+| <img src="assets/dox.svg" width="20" height="20" align="center"> [Dox](https://github.com/dartondox/dox) | [![GitHub stars](https://img.shields.io/github/stars/dartondox/dox?style=social)](https://github.com/dartondox/dox/stargazers) | Web backend framework for Dart, with ORM, queues, auth, mail, and a CLI. |
+| <img src="assets/sellrika.svg" width="20" height="20" align="center"> [Sellrika](https://github.com/sellrika/sellrika) | [![GitHub stars](https://img.shields.io/github/stars/sellrika/sellrika?style=social)](https://github.com/sellrika/sellrika/stargazers) | Point of sale and online store in one app, for shops, cafés, and restaurants. |
+| <img src="assets/sql-pro.svg" width="20" height="20" align="center"> [sql-pro](https://github.com/necessarylion/sql-pro) | [![GitHub stars](https://img.shields.io/github/stars/necessarylion/sql-pro?style=social)](https://github.com/necessarylion/sql-pro/stargazers) | Desktop SQL client for MySQL, MariaDB, PostgreSQL, SQL Server, and SQLite. Tauri, Rust, and Vue — macOS, Windows, and Linux. |
 | [country-list-with-dial-code-and-flag](https://github.com/necessarylion/country-list-with-dial-code-and-flag) | [![GitHub stars](https://img.shields.io/github/stars/necessarylion/country-list-with-dial-code-and-flag?style=social)](https://github.com/necessarylion/country-list-with-dial-code-and-flag/stargazers) | Country names, flags, and dial codes. |
 | [pdf-inspect](https://github.com/necessarylion/pdf-inspect) | [![GitHub stars](https://img.shields.io/github/stars/necessarylion/pdf-inspect?style=social)](https://github.com/necessarylion/pdf-inspect/stargazers) | Rust CLI for PDF metadata, fonts, and PDF/X-4 print compliance. |
 | [flutter-credit-card-form](https://github.com/necessarylion/flutter-credit-card-form) | [![GitHub stars](https://img.shields.io/github/stars/necessarylion/flutter-credit-card-form?style=social)](https://github.com/necessarylion/flutter-credit-card-form/stargazers) | Credit and debit card form for Flutter. |
